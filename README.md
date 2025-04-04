@@ -11,6 +11,6 @@
 ### IDE e ferramentas mais utilizadas
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=34886&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=q53th37bGbV0&format=png&color=000000"/>
 
-![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=bhsouza&theme=dark&show_icons=true&&hide=issues,contribs)
+![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=breno-hs&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Breno github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhsouza&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Breno github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=breno-hs&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
